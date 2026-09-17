@@ -20,7 +20,7 @@ My name is JEONGEUN SIM.
 ## 🛠️ Tech Stack
 
 #### **Languages**
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-3776AB?logo=Matlab&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-3776AB?logo=Matlab&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-3776AB?logo=JAVA&logoColor=white">
 
 #### **Hardware & CAD**
 <img src="https://img.shields.io/badge/Autodesk fusion-EA7100?logo=autodesk&logoColor=white"> <img src="https://img.shields.io/badge/KiCad-314CB0?logo=KiCad&logoColor=white"> <img src="https://img.shields.io/badge/OrCAD-DD0700?logo=orcad&logoColor=white"> <img src="https://img.shields.io/badge/Arduino IDE-00878F?logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?logo=stmicroelectronics&logoColor=white">
