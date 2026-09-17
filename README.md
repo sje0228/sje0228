@@ -14,10 +14,7 @@ My name is JEONGEUN SIM.
 ## contact 📫
 - Email: simjungeun6410@gmail.com
 - Github: https://github.com/sje0228
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+
 ## 🛠️ Tech Stack
 
 #### **Languages**
