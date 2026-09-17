@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+My name is JEONGEUN SIM.
 
 ## Hi there 👋
 - 🔭 I’m currently working on ...
