@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Autodesk fusion-000000?logo=autodesk&logoColor=white">
+<img src="https://img.shields.io/badge/Autodesk fusion-EA7100?logo=autodesk&logoColor=white">
 <img src="https://img.shields.io/badge/KiCad-314CB0?logo=KiCad&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/MATLAB-3776AB?logo=Matlab&logoColor=white">
