@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-
 My name is JEONGEUN SIM.
+
 
 ## Hi there 👋
 - 🔭 I’m currently working on ...
@@ -11,9 +11,11 @@ My name is JEONGEUN SIM.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
+
 ## contact 📫
 - Email: simjungeun6410@gmail.com
 - Github: https://github.com/sje0228
+
 
 ## 🛠️ Tech Stack
 
