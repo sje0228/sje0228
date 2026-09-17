@@ -17,7 +17,7 @@ My name is JEONGEUN SIM.
 - Github: https://github.com/sje0228
 
 
-## 🛠️ Tech Stack
+## Tech Stack 🛠️
 
 #### **Languages**
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-3776AB?logo=Matlab&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-7D929E?logo=JAVA&logoColor=white">
