@@ -2,7 +2,7 @@
 
 
 My name is JEONGEUN SIM.
-
+이것은 git test입니다.
 
 ## contact 📫
 - Email: simjungeun6410@gmail.com
